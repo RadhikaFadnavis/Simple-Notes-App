@@ -8,7 +8,7 @@
 # 4.Data class
 # 5.Scrollable list
 #
-#Collaborators of this project are:
+# Collaborators of this project are:
 # 1. Aarya Dandapur
 # 2. Gayatri Joshi
 # 3. Manasi Deshmukh
